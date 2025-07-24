@@ -1,0 +1,1 @@
+En este juego hecho en net maui, el usuario tendra que darle click a los botones que tengan el mismo emoji del animal, en caso de que el usuario de click a botones diferentes no funcionara, tiene que seleccionar las parejas de dibujos para poder ganar
